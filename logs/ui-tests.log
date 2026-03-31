@@ -1,0 +1,21 @@
+2026-03-27 02:51:51 INFO  test.UITestCases - Launching application in Chrome...
+2026-03-27 02:51:52 INFO  test.UITestCases - Application launched successfully.
+2026-03-27 02:51:52 INFO  test.UITestCases - Starting account creation test for user: testemail390nvj@email.com01
+2026-03-27 02:52:25 INFO  test.UITestCases - Starting login test for user: testemail390nvj@email.com01
+2026-03-27 02:52:45 INFO  test.UITestCases - Closing browser...
+2026-03-27 02:52:45 INFO  test.UITestCases - Browser closed.
+2026-03-27 02:54:49 INFO  test.UITestCases - Launching application in Chrome...
+2026-03-27 02:54:51 INFO  test.UITestCases - Application launched successfully.
+2026-03-27 02:54:51 INFO  test.UITestCases - Starting account creation test for user: testemail390nvj@email.com01
+2026-03-27 02:55:24 INFO  test.UITestCases - Starting login test for user: testemail390nvj@email.com01
+2026-03-27 02:55:33 INFO  test.UITestCases - Login successful for user: testemail390nvj@email.com01
+2026-03-27 02:55:33 INFO  test.UITestCases - Closing browser...
+2026-03-27 02:55:34 INFO  test.UITestCases - Browser closed.
+2026-03-27 19:05:48 INFO  test.UITestCases - Launching application in Chrome...
+2026-03-27 19:05:52 INFO  test.UITestCases - Application launched successfully.
+2026-03-27 19:05:54 INFO  test.UITestCases - Starting account creation test for user: testemail390nvj@email.com02
+2026-03-27 19:06:08 INFO  test.UITestCases - Account created successfully for user: testemail390nvj@email.com02
+2026-03-27 19:06:08 INFO  test.UITestCases - Starting login test for user: testemail390nvj@email.com02
+2026-03-27 19:06:18 INFO  test.UITestCases - Login successful for user: testemail390nvj@email.com02
+2026-03-27 19:06:18 INFO  test.UITestCases - Closing browser...
+2026-03-27 19:06:18 INFO  test.UITestCases - Browser closed.
