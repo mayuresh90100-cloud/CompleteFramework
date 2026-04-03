@@ -23,7 +23,7 @@
       <version>3.5.5</version>
       <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>APItestng.xml</suiteXmlFile>
+          <suiteXmlFile>UItestng.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
     </plugin>
