@@ -23,7 +23,7 @@
       <version>3.5.5</version>
       <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>DBtestng.xml</suiteXmlFile>
+          <suiteXmlFile>APItestng.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
     </plugin>
